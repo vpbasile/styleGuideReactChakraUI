@@ -48,5 +48,3 @@ My personal style guide for react apps
 
 13. **Data Structure and Demonstration:**
     - a. When creating a new data structure, accompany it with an SQL file that creates all necessary tables, defines relationships, and includes dummy data. This enables easy demonstration and testing of the data structure's functionality.
-
-Feel free to customize and expand upon these guidelines to suit your team's preferences and project needs.
